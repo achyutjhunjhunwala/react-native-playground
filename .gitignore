@@ -116,3 +116,15 @@ dist
 .yarn/build-state.yml
 .pnp.*
 
+rn-add-task/.expo/*
+rn-add-task/.idea/*
+rn-add-task/.vscode/*
+
+rn-guess-the-number/.expo/*
+rn-guess-the-number/.idea/*
+rn-guess-the-number/.vscode/*
+
+rn-meals-app/.expo/*
+rn-meals-app/.idea/*
+rn-meals-app/.vscode/*
+
