@@ -117,14 +117,17 @@ dist
 .pnp.*
 
 rn-add-task/.expo/*
+rn-add-task/.expo-shared/*
 rn-add-task/.idea/*
 rn-add-task/.vscode/*
 
 rn-guess-the-number/.expo/*
+rn-add-task/.expo-shared/*
 rn-guess-the-number/.idea/*
 rn-guess-the-number/.vscode/*
 
 rn-meals-app/.expo/*
+rn-add-task/.expo-shared/*
 rn-meals-app/.idea/*
 rn-meals-app/.vscode/*
 
